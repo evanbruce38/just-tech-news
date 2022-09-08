@@ -36,4 +36,4 @@ Vote.init(
     }
 );
 
-module.exprts = Vote;
+module.exports = Vote;
